@@ -1,2 +1,2 @@
 # taotao-mall
-a practical project of E-commerce website
+A practical project of E-commerce website
